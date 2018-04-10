@@ -1,0 +1,6 @@
+framework module TUPIOSSDK {
+  umbrella header "TUPIOSSDK.h"
+
+  export *
+  module * { export * }
+}

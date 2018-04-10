@@ -1,0 +1,6 @@
+framework module TUPNetworkSDK {
+  umbrella header "TUPNetworkSDK.h"
+
+  export *
+  module * { export * }
+}

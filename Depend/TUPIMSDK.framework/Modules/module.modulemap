@@ -1,0 +1,6 @@
+framework module TUPIMSDK {
+  umbrella header "TUPIMSDK.h"
+
+  export *
+  module * { export * }
+}

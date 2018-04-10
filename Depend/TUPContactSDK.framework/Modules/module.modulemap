@@ -1,0 +1,6 @@
+framework module TUPContactSDK {
+  umbrella header "TUPContactSDK.h"
+
+  export *
+  module * { export * }
+}

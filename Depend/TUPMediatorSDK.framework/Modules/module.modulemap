@@ -1,0 +1,6 @@
+framework module TUPMediatorSDK {
+  umbrella header "TUPMediatorSDK.h"
+
+  export *
+  module * { export * }
+}
